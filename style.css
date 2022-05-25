@@ -1,0 +1,32 @@
+#h4 {
+    font-family: 'Comfortaa', cursive;
+
+}
+
+#h3 {
+    font-size: 25px;
+    font-family: 'Shadows Into Light';
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+
+#lb {
+    font-size: 18px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    letter-spacing: 1px;
+}
+#btn {
+    border-radius: 4px;
+    background-color: #4e4e4e;
+    color: #dddddd;
+    border-color: #424242;
+    border-style: dotted;
+    height: 32px;
+    font-size: 15x;
+    font-family: 'Comfortaa', cursive;
+    letter-spacing: 1px;
+    font-weight:500;
+    
+    }
+    
